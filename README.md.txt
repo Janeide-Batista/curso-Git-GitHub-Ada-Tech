@@ -2,3 +2,4 @@
 ## Fazendo alterações no repositório
 # uso do comando restore
 # comando pull
+# comando git fetch
